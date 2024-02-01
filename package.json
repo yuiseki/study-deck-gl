@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "deck.gl": "^8.9.23",
-    "maplibre-gl": "^3.2.1",
+    "maplibre-gl": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-map-gl": "^7.1.3"
